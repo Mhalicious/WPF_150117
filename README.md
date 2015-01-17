@@ -1,13 +1,15 @@
 This is my awesome Repo- M.
 ===========================
 
-##Table of Contents
+##Neue Sachen die wir gelernt haben
 
-- Portfolio
-- Start with the githup stuff today at 30.11.14
+- Slim
+- SCSS/SASS
+- Git brah!
+- Codekit
 
-new shit added
+_Things I like the most_
 
-##Ordner erstellt und in MAMP Ordner kopiert
-
-- erst am 15.01.15
+1 Bier
+2 Club Mate
+3 Naked Grillz
